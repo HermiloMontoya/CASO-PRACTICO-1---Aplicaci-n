@@ -1,0 +1,10 @@
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\bin\Debug\GestionDeGastos.exe.config
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\bin\Debug\GestionDeGastos.exe
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\bin\Debug\GestionDeGastos.pdb
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.csproj.AssemblyReference.cache
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.FPrincipal.resources
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.Properties.Resources.resources
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.csproj.GenerateResource.cache
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.csproj.CoreCompileInputs.cache
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.exe
+C:\Users\Zárate\source\repos\GestionDeGastos\GestionDeGastos\obj\Debug\GestionDeGastos.pdb
